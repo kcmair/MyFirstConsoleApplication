@@ -17,7 +17,7 @@ class MyFirstConsoleApplication
         Console.WriteLine($"There are {daysToXmas} days to Christmas.\n");
 
         double width, height, woodLength, glassArea;
-        string widthString, heightString, wait;
+        string widthString, heightString;
 
         Console.WriteLine("What is the width of the window in meters?");
         widthString = Console.ReadLine();
