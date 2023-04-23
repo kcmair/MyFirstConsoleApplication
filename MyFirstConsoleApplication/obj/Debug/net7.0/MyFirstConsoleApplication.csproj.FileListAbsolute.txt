@@ -1,0 +1,15 @@
+/Users/kcmair/Developer/BYU_Idaho/CSE325/W01/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net7.0/MyFirstConsoleApplication
+/Users/kcmair/Developer/BYU_Idaho/CSE325/W01/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net7.0/MyFirstConsoleApplication.deps.json
+/Users/kcmair/Developer/BYU_Idaho/CSE325/W01/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net7.0/MyFirstConsoleApplication.runtimeconfig.json
+/Users/kcmair/Developer/BYU_Idaho/CSE325/W01/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net7.0/MyFirstConsoleApplication.dll
+/Users/kcmair/Developer/BYU_Idaho/CSE325/W01/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net7.0/MyFirstConsoleApplication.pdb
+/Users/kcmair/Developer/BYU_Idaho/CSE325/W01/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.csproj.AssemblyReference.cache
+/Users/kcmair/Developer/BYU_Idaho/CSE325/W01/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kcmair/Developer/BYU_Idaho/CSE325/W01/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.AssemblyInfoInputs.cache
+/Users/kcmair/Developer/BYU_Idaho/CSE325/W01/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.AssemblyInfo.cs
+/Users/kcmair/Developer/BYU_Idaho/CSE325/W01/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/kcmair/Developer/BYU_Idaho/CSE325/W01/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.dll
+/Users/kcmair/Developer/BYU_Idaho/CSE325/W01/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/refint/MyFirstConsoleApplication.dll
+/Users/kcmair/Developer/BYU_Idaho/CSE325/W01/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.pdb
+/Users/kcmair/Developer/BYU_Idaho/CSE325/W01/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.genruntimeconfig.cache
+/Users/kcmair/Developer/BYU_Idaho/CSE325/W01/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/ref/MyFirstConsoleApplication.dll
